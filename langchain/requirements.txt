@@ -1,0 +1,7 @@
+langchain
+langchain-aws
+langchain-community
+langchain-mcp-adapters
+wikipedia
+debugpy
+mcp
