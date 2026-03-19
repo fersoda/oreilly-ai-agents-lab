@@ -1,4 +1,4 @@
-# Part 2b: Tool Use (Book Club - Chapter 4)
+# Part 2: Tool Use (Book Club - Chapter 4)
 
 This module covers **Tool Use** concepts from Chapter 4, implemented with both **Strands Agents** and **LangChain** using AWS Bedrock.
 
